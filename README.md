@@ -1,10 +1,13 @@
 **Priyansh Patel's Portfolio**
+
 Welcome to my portfolio! This repository showcases my skills, projects, and experiences as a Computer Engineering student and aspiring developer.
 
 **About Me**
+
 Hi, I'm Priyansh Patel, a third-year Computer Engineering student at Ganpat University. I am passionate about technology and love solving complex problems through coding. I am proficient in various programming languages and technologies, and I am always eager to learn and explore new areas.
 
 **Skills**
+
 Programming Languages: Java, JavaScript, HTML, CSS, Kotlin, Python, C#
 Frameworks and Libraries: Node.js, React, Express
 Databases: MySQL, MongoDB
@@ -12,6 +15,7 @@ Tools and Technologies: Git, Figma, Android UI Development
 Other Skills: Leadership, Team Management, Problem Solving
 
 **Projects**
+
 1. News Review System
 A web application that allows users to review and rate news articles. Developed as a capstone project with a team.
 
