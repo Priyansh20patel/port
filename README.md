@@ -31,8 +31,11 @@ A bookstore website with features like login, signup, and course listings. Devel
 **Contact Me**
 
 Email: patelpriyansh.8955@gmail.com
+
 LinkedIn: https://shorturl.at/se5fG
+
 GitHub: (https://github.com/priyansh20patel)
+
 Thank you for visiting my portfolio! Feel free to explore my projects and reach out to me for any collaboration or opportunities.
 
 
