@@ -41,3 +41,14 @@ LinkedIn: linkedin.com/in/priyanshpatel
 GitHub: github.com/yourusername
 Thank you for visiting my portfolio! Feel free to explore my projects and reach out to me for any collaboration or opportunities.
 
+
+
+**Demo**
+
+![home](https://github.com/user-attachments/assets/191fc155-a7d0-40ee-826a-5336579770a8)
+![about me](https://github.com/user-attachments/assets/d2440e82-f714-4a3d-94fd-65ebd2360c41)
+![contact me](https://github.com/user-attachments/assets/2789fdaa-3e3e-40db-b372-78f242b1bc3f)
+![more projects](https://github.com/user-attachments/assets/b6768623-44c9-443c-be29-a731e1937642)
+![contact me](https://github.com/user-attachments/assets/e6d3ffa2-893a-4aba-84bc-31a9458f2b63)
+
+
