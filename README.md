@@ -1,6 +1,43 @@
+Priyansh Patel's Portfolio
+Welcome to my portfolio! This repository showcases my skills, projects, and experiences as a Computer Engineering student and aspiring developer.
 
-![image](https://github.com/Priyansh20patel/port/assets/98640432/0eed849e-02de-41b0-a02b-a3f3cf9dae7a)
-![image](https://github.com/Priyansh20patel/port/assets/98640432/ef9719e2-f5ad-4725-9b84-91a481c9d545)
-![image](https://github.com/Priyansh20patel/port/assets/98640432/3c30ef67-8c7e-4417-9c7d-4a98d7d076e2)
-![image](https://github.com/Priyansh20patel/port/assets/98640432/0d4b5c1f-af2a-48c7-8087-a8cc2ad9bf82)
-![image](https://github.com/Priyansh20patel/port/assets/98640432/79b03ce8-b957-4532-9ea1-fb56ed2c0335)
+About Me
+Hi, I'm Priyansh Patel, a third-year Computer Engineering student at Ganpat University. I am passionate about technology and love solving complex problems through coding. I am proficient in various programming languages and technologies, and I am always eager to learn and explore new areas.
+
+Skills
+Programming Languages: Java, JavaScript, HTML, CSS, Kotlin, Python, C#
+Frameworks and Libraries: Node.js, React, Express
+Databases: MySQL, MongoDB
+Tools and Technologies: Git, Figma, Android UI Development
+Other Skills: Leadership, Team Management, Problem Solving
+Projects
+1. News Review System
+A web application that allows users to review and rate news articles. Developed as a capstone project with a team.
+
+2. Weather App
+An Android application built using Kotlin that provides weather updates and forecasts.
+
+3. Personal Portfolio Website
+A personal portfolio website showcasing my projects, skills, and experiences. Built with HTML, CSS, and JavaScript.
+
+4. Bookstore Website
+A bookstore website with features like login, signup, and course listings. Developed using React Router DOM, Node.js, and other technologies.
+
+5. Instagram Clone
+A clone of Instagram built using React and Firebase.
+
+6. Bank Management System
+A Java Swing and AWT application for managing bank accounts and transactions.
+
+7. Spotify Clone
+A music streaming application mimicking Spotify's features, developed using React and Node.js.
+
+Experience
+I have completed internships from various platforms and have hands-on experience in web development, Android development, and more. I have a strong foundation in data science and analytics, with proficiency in data analysis, statistical analysis, and machine learning.
+
+Contact Me
+Email: priyansh@example.com
+LinkedIn: linkedin.com/in/priyanshpatel
+GitHub: github.com/yourusername
+Thank you for visiting my portfolio! Feel free to explore my projects and reach out to me for any collaboration or opportunities.
+
