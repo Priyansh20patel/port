@@ -29,6 +29,7 @@ A personal portfolio website showcasing my projects, skills, and experiences. Bu
 A bookstore website with features like login, signup, and course listings. Developed using React Router DOM, Node.js, and other technologies.
 
 **Contact Me**
+
 Email: patelpriyansh.8955@gmail.com
 LinkedIn: https://shorturl.at/se5fG
 GitHub: (https://github.com/priyansh20patel)
